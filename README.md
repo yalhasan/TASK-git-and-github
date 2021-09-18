@@ -22,6 +22,7 @@ In case you didn't create the SSH Key from github and linked it to your computer
 Now you own this repo, because you created it! you can clone it now
 - [ ] Click on the green `code` button 
 - [ ] Select SSH and copy the ssh link. Should look like this
+
   ![ssh](https://user-images.githubusercontent.com/8784343/133893992-19294504-e5e3-4a0f-a6f7-25459e0a1700.png)
 
 
@@ -29,10 +30,13 @@ Now you own this repo, because you created it! you can clone it now
 - [ ] Open the terminal app 
 - [ ] Navigate to the folder you created that includes your development work 
 - [ ] Clone the repo from the copied url 
+
   ```sh
   $ git clone git@github.com:{YOUR_ACCOUNT_NAME}/HelloGithub.git
   ```
+  
 - [ ] The repo should be cloned now on your device, enter the cloned folder by writing the command 
+- [ ] 
   ```sh
   $ cd HelloGithub
   ```
