@@ -4,9 +4,9 @@ You are going to learn how to use git and github and create a new repo on github
 
 ## Instructions
 
-In case you didn't create the SSH Key from github and linked it to your computer, do the following steps
 ### 0. Link your computer to github by creating SSH key
-- Read the docuemtnation
+In case you didn't create the SSH Key from github and linked it to your computer, do the following steps
+- [ ] [Read the SSH-Keygen workshop and implement it](https://warehouse.joincoded.com/workshops/2-git-basics/basic-commands-1/ssh-keygen)
 
 
 ### 1. Create new git repository on Github.com
@@ -34,7 +34,8 @@ Now you own this repo, because you created it! you can clone it now
   ```
 - [ ] The repo should be cloned now on your device, enter the cloned folder by writing the command 
   ```sh
-  $ cd HelloGithub`.
+  $ cd HelloGithub
+  ```
 - [ ] In case the didn't work, check step 0 again
 
   
