@@ -1,15 +1,15 @@
 # Git and Github
 
-You are going to learn how to use git and github and create a new repo on github and clone it to your device. You will be able to push to it as well
+You are going to learn how to use git and Github and create a new repo on GitHub and clone it to your device. You will be able to push to it as well
 
 ## Instructions
 
-### 0. Link your computer to github by creating SSH key
-In case you didn't create the SSH Key from github and linked it to your computer, do the following steps
+### 0. Link your computer to GitHub by creating an SSH key
+In case you didn't create the SSH Key from Github and linked it to your computer, do the following steps
 - [ ] [Read the SSH-Keygen workshop and implement it](https://warehouse.joincoded.com/workshops/2-git-basics/basic-commands-1/ssh-keygen)
 
 
-### 1. Create new git repository on Github.com
+### 1. Create a new git repository on Github.com
 
 - [ ] Login to your account on [GitHub](https://github.com)
 - [ ] Click on the green `New` button. (🎁 Gift: [github.new](https://github.new) is a shortcut website that allows you to quickly create a new repo)
@@ -19,7 +19,7 @@ In case you didn't create the SSH Key from github and linked it to your computer
 
 ### 2. Copy the SSH clone link
 
-Now you own this repo, because you created it! you can clone it now
+Now you own this repo because you created it! you can clone it now
 - [ ] Click on the green `code` button 
 - [ ] Select SSH and copy the ssh link. Should look like this
 
@@ -36,10 +36,11 @@ Now you own this repo, because you created it! you can clone it now
   ```
   
 - [ ] The repo should be cloned now on your device, enter the cloned folder by writing the command 
-- [ ] 
+  
   ```sh
   $ cd HelloGithub
   ```
+  
 - [ ] In case the didn't work, check step 0 again
 
   
@@ -51,5 +52,5 @@ Now you own this repo, because you created it! you can clone it now
 - [ ] add and commit the text file again.
 - [ ] Go to GitHub and create a new repository called Git-Task.
 - [ ] push your local repository to the newly created remote repository.
-- [ ] Add an image of your favourite food in your local repository. (You can download any image for this from Google if you need to.)
+- [ ] Add an image of your favorite food in your local repository. (You can download any image for this from Google if you need to.)
 - [ ] push your repository again.
