@@ -49,3 +49,9 @@ You own this repo because you created it! It's time to clone it!
 - `push` your local changes to the remote repository.
 - Add an image of your favorite food in your local repository. (You can download any image for this from Google if you need to.)
 - `add`, `commit`, `push` your changes. -->
+
+### 3. Make Changes
+
+- Create a new file using `touch` called `greetings.txt`.
+- Inside the fle, Write a greeting message.
+- Git add, commit and push your changes
