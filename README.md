@@ -52,6 +52,6 @@ You own this repo because you created it! It's time to clone it!
 
 ### 3. Make Changes
 
-- Create a new file using `touch` called `greetings.txt`.
-- Inside the fle, Write a greeting message.
-- Git add, commit and push your changes
+- Create a new file using the `touch` command called `greetings.txt`.
+- Inside the fle, write a greeting message.
+- Git add, commit and push your changes.
