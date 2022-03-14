@@ -40,7 +40,7 @@ You own this repo because you created it! It's time to clone it!
   $ cd HelloGithub
   ```
   
-<!-- ### 3. Edit your repo
+### 3. Edit your repo
 
 - Create a new text file in this directory with your name. (e.g. "zainab.txt")
 - `add` and `commit` the empty text file you just made.
@@ -48,10 +48,4 @@ You own this repo because you created it! It's time to clone it!
 - `add` and `commit` the text file again.
 - `push` your local changes to the remote repository.
 - Add an image of your favorite food in your local repository. (You can download any image for this from Google if you need to.)
-- `add`, `commit`, `push` your changes. -->
-
-### 3. Make Changes
-
-- Create a new file using the `touch` command called `greetings.txt`.
-- Inside the fle, write a greeting message.
-- Git add, commit and push your changes.
+- `add`, `commit`, `push` your changes.
