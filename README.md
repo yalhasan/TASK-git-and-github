@@ -4,10 +4,6 @@ You are going to learn how to use git and Github by creating a new repo on GitHu
 
 ## Instructions
 
-### 0. Link your computer to GitHub by creating an SSH key
-
-- [Read the SSH-Keygen workshop and implement it](https://warehouse.joincoded.com/workshops/2-git-basics/basic-commands-1/ssh-keygen)
-
 
 ### 1. Create a new git repository on Github.com
 
